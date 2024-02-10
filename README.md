@@ -1,10 +1,10 @@
 ## Movie Streaming Site
 This project is built with the following technologies:
 
-### React
-### TypeScript
-### Vite
-### Sass
+# React
+# TypeScript
+# Vite
+# Sass
 
 ## 🔧 Setup
 - Install Node.js if you haven't already from [nodejs.org](https://nodejs.org)
